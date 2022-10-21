@@ -1,15 +1,12 @@
 Welcome to your new dbt project!
 
-### Using the starter project
+### Rittman Analytics - Stackoverflow Trial
 
-Try running the following commands:
-- dbt run
-- dbt test
+Rittman Analytics has tasked us with finding out what are the most popular and trending questions on Stackoverflow that are not being answered. The purpose of this task is to investigate this public dataset and gain a measure of intelligence from the data. The outcome of this task should direct us in finding an area in which there may be  an opportunity for potential subject matter experts to provide those answers. 
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](http://community.getbdt.com/) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+
+### Sources:
+- Google Doc - this houses the report in which we explain the project specification, tools employed and insights gathered https://docs.google.com/document/d/1zTIDkqdxH8m-4HIkfqi-EdOw72GhFNFQG-f64StytsY/edit?usp=sharing
+
