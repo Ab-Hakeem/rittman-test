@@ -9,4 +9,6 @@ Rittman Analytics has tasked us with finding out what are the most popular and t
 
 ### Sources:
 - Google Doc - this houses the report in which we explain the project specification, tools employed and insights gathered https://docs.google.com/document/d/1zTIDkqdxH8m-4HIkfqi-EdOw72GhFNFQG-f64StytsY/edit?usp=sharing
+- Draw.io - Dimensional model of fact table and diemension tables
+https://app.diagrams.net/#G1ghhDaSGmiHdyoXTZU4RgCjaVp0yM3hc5
 
